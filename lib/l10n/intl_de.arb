@@ -4135,6 +4135,12 @@
     "placeholders_order": [],
     "placeholders": {}
   },
+  "languageMongolian": "Mongolisch",
+  "@languageMongolian": {
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
   "useCompanyServer": "Firmenserver verwenden",
   "@useCompanyServer": {
     "type": "text",
